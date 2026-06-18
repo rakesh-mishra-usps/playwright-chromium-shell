@@ -1,0 +1,2 @@
+# Ignore zip packages from standard Git tracking
+*.zip
